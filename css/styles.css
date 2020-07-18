@@ -119,6 +119,7 @@ footer {
 /* Responsive design */
 @media (max-width: 1028px) {
   .title-image {
+    padding-top: 3%;
     position: static;
     width: 80%;
     transform: rotate(0);
